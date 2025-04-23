@@ -31,18 +31,18 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="left">
-  <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir302&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-  <p>
       <img src="https://github-readme-stats.vercel.app/api?username=Sudhir302&show_icons=true&theme=radical" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhir302&theme=radical" alt="GitHub Streak"/>
-  </p>
-  
 </p>
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-<img src="https://github.com/Sudhir302/Sudhir302/blob/output/dist/github-contribution-grid-snake.svg" alt="snake"/>
 
 
 <!--
