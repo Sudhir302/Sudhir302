@@ -1,6 +1,6 @@
 <h3 align = "left">Greetings👋, This is Sudhir Chaudhary,</h3> 
 
-<p align = "left">👨🏼‍🎓I'm a student pursuing <b> Mtech in Computer Science and Engineering </b> at <b>Alliance University, Bangalore,</b> <br />
+<p align = "left">👨🏼‍🎓I'm a student pursuing <b> Mtech in Computer Science and Engineering </b> at <b>Alliance University, Bangalore, 2025-2027</b> <br />
 👨🏼‍💻I'm focused on growing as a <b>Full Stack Developer </b> — crafting everything from clean user interfaces to powerful backend systems.</p>
 
 <p align = "left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:csudhir302@gmail.com">
+  <a href="mailto:csudhir302@gmail.com" target = "_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/sudhirchaudhary03?igsh=MW4xZG5mcDJtMXNmcA==" target="_blank">
