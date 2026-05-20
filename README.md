@@ -1,6 +1,6 @@
 <h3 align = "left">Greetings👋, This is Sudhir Chaudhary,</h3> 
 
-<p align = "left">👨🏼‍🎓I'm a student pursuing <b>Information Science and Engineering </b> at <b>Jain University, Bangalore,</b> <br />
+<p align = "left">👨🏼‍🎓I'm a student pursuing <b> Mtech in Computer Science and Engineering </b> at <b>Alliance University, Bangalore,</b> <br />
 👨🏼‍💻I'm focused on growing as a <b>Full Stack Developer </b> — crafting everything from clean user interfaces to powerful backend systems.</p>
 
 <p align = "left">
